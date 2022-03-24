@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+I'm Patrycja, Front-end Developer based in Cracow. You can reach me at [LinkedIn](https://www.linkedin.com/in/patrycja-kubiczek/) 
 
 <!--
 **PatrycjaKubiczek/PatrycjaKubiczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
